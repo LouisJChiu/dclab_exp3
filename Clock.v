@@ -1,5 +1,5 @@
 module Clock(
-	clk50,
+	CLK50,
 	ratio,
 	isNormalSpeed,
 	interp,
